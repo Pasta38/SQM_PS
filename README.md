@@ -9,3 +9,4 @@ Contenu :
 - Fichiers STL, STP et FreeCAD pour le boitier et le support de lentille
 - Infos sur les composants
 - Liens vers les sites d'inspiration et d'aide
+- Photos
